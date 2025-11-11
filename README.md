@@ -33,4 +33,5 @@
 ## 4.-EJEMPLO
 ### Crear una lista que almacene 10 números enteros introducidos por el usuario, Mostrar el máximo valor, mínimo, la suma y el promedio de los valores de la lista, ordenar la lista de menor a mayor (Código en Listas.py).
 
-![](Capturas/resultados.PNG)
+Resultados esperados
+![Resultados esperados](Capturas/resultados.PNG)
